@@ -1,0 +1,16 @@
+{
+    "name": "pairac/rolepermission",
+    "autoload": {
+        "psr-4": {
+            "Pairac\\Rolepermission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohmat",
+            "email": "rohmat.taufik14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
