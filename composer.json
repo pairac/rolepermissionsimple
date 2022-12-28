@@ -1,8 +1,8 @@
 {
-    "name": "pairac/rolepermission",
+    "name": "pairac/rolepermissionsimple",
     "autoload": {
         "psr-4": {
-            "Pairac\\Rolepermission\\": "src/"
+            "Pairac\\RolePermissionSimple\\": "src/"
         }
     },
     "authors": [

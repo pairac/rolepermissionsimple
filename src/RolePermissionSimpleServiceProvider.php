@@ -4,7 +4,7 @@ namespace pairac\rolepermission;
 
 use Illuminate\Support\ServiceProvider;
 
-class RolePermissionServiceProvider extends ServiceProvider
+class RolePermissionSimpleServiceProvider extends ServiceProvider
 {
     /**
      * Register any application services.
