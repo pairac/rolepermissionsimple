@@ -1,16 +1,17 @@
 {
     "name": "pairac/rolepermissionsimple",
+    "description": "simple role permission for laravel",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Pairac\\RolePermissionSimple\\": "src/"
+            "Pairac\\Rolepermissionsimple\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Rohmat",
+            "name": "rohmat",
             "email": "rohmat.taufik14@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
