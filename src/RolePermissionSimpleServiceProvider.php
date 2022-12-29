@@ -1,6 +1,6 @@
 <?php
 
-namespace pairac\rolepermission;
+namespace Pairac\Rolepermissionsimple;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,7 +13,7 @@ class RolePermissionSimpleServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        
+        $this->publishFiles();
     }
 
     /**
